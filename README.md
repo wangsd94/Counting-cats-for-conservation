@@ -9,7 +9,7 @@ Note the project include two parts, dry season and wet season.
 ### Dry season
 
 ### Wet season
-![wet_season](./wet_season/results/Posterior Wet.jpg)
+![wet_season](./wet_season/results/Posterior\ Wet.jpg)
 ## Reference
 
 *Allen, M. L., Wang, S., Olson, L. O., Li, Q., & Krofel, M. (2020). Counting cats for conservation: seasonal estimates of leopard density and drivers of distribution in the Serengeti. Biodiversity and Conservation, 1-18.*
