@@ -7,7 +7,7 @@ Note the project include two parts, dry season and wet season.
 
 ## MCMC outputs
 ### Dry season
-
+![dry_season](./wet_season/results/PosteriorDry.jpg)
 ### Wet season
 ![wet_season](./wet_season/results/PosteriorWet.jpg)
 
